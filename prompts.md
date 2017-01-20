@@ -22,11 +22,10 @@ Allow users to make certain list items public, but default to private.
 Create an e-commerce site for famed retail giant, Nozama.com! Naturally, the
 site will need to allow customers to see all of Nozama's products, add those
 items to a shopping cart, and purchase them using
-[Stripe](https://stripe.com/docs/checkout). In addition, by logging in,
-customers should be able to keep track of their purchases by looking at their
-past orders.
+[Stripe](https://stripe.com/docs/checkout).
 
-**Reach Goal**: Build a search feature so that people can search for specific
+**Reach Goal**: Allow customers to keep track of their purchases by looking at their
+past orders. Build a search feature so that people can search for specific
 products by name.
 
 ## Survey
@@ -61,9 +60,9 @@ this app should associate meta-data with each file, including things like:
 
 Build an app to build a website! Your app must allow non-technical users to
 write blog posts **and** pages for the site. When a visitor visits your site,
-they should see content. When a user logs in, they should see a dashboard that
-lets them create and edit new posts or pages.
+they should see content. 
 
-**Reach Goal**: Implement authorization. Administrators should be able to delete
+**Reach Goal**: Implement authorization: When a user logs in, they should see a dashboard that
+lets them create and edit new posts or pages. Administrators should be able to delete
 pages or posts, while normal users should be able to edit pages. Only
 administrators can publish a new post, normal users can only save drafts.
