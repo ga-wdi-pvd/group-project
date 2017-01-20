@@ -35,10 +35,8 @@ Make it work, and make it awesome.
 Your project must:
 
 -   **Use MongoDB and Express** to build an API.
--   **Create an API using at least 2 related models**, one of which should be a
-    user.
--   Include **all major CRUD functions** in a **RESTful API** for at least one
-    non-user model.
+-   **Create an API using at least 2 related models.**
+-   Include **all major CRUD functions** in a **RESTful API** for at least one model.
 -   **Consume your own API** by making a front-end with HTML, Javascript, and
     jQuery
 -   **Craft thoughtful user stories together**, as a team.
