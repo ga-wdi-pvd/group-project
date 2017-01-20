@@ -41,7 +41,6 @@ Your project must:
     non-user model.
 -   **Consume your own API** by making a front-end with HTML, Javascript, and
     jQuery
--   **Use authentication in your API** to restrict access to appropriate users.
 -   **Craft thoughtful user stories together**, as a team.
 -   **Manage team contributions and collaboration** using a standard Git flow on
     Github.
@@ -58,6 +57,7 @@ Your project must:
 -   **At least two Git repositories** (front-end and back-end) **hosted on
     Github**, with frequent commits from _every_ team member dating back to the
     _very beginning_ of the project.
+-   If you chose to use User Authentication, explain why or why not in your readme.
 -   The `README.md` file inside your _**front-end**_ repo should have:
 
     -   A short description of your application.
