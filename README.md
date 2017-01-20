@@ -34,6 +34,7 @@ Make it work, and make it awesome.
 
 Your project must:
 
+-   **Use Angular** to handle views to the browser
 -   **Use MongoDB and Express** to build an API.
 -   **Create an API using at least 2 related models.**
 -   Include **all major CRUD functions** in a **RESTful API** for at least one model.
