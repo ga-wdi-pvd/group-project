@@ -1,8 +1,7 @@
 # Team Project Prompts
 
-Each team of students will be assigned one of the following projects to
-complete. Though the broad brush-strokes are laid out for you here, the details
-are up to you, so feel free to get as creative as you like!
+Can't think of a project idea?
+The following are suggestions with reach goals included.
 
 Note: As in previous projects, **only shoot for Reach Goals once you've
 satisfied the core requirements**.
