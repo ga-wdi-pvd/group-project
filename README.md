@@ -8,6 +8,8 @@
 1.  [Working in Groups](group-work.md)
 1.  [Group Roles](group-roles.md)
 1.  [Team Project Prompts](prompts.md)
+1.  [Presentation Guide](presentations.md)
+1.  [Evaluation Rubric](evaluation.md)
 
 ## Overview
 
