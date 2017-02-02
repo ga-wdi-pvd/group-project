@@ -131,6 +131,8 @@ Some other suggestions and best practices:
     logic of something helps.
 
 **Good luck and happy hacking!**
+## Submissions to Project 3 Gallery
+[Create an Issue for your submission](https://github.com/ga-wdi-pvd/project3-gallery) and include links to your front-end and back-end hosted applications.
 
 ## [License](LICENSE)
 
